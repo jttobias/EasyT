@@ -1,4 +1,5 @@
-                                                        Privacy Policy
+                                                       Privacy Policy
+
 Effective Date: September 28, 2024
 
 Your privacy is important to us. This Privacy Policy explains how [Your Company/Your App Name] ("we", "us", or "our") collects, uses, and shares information about you when you use our mobile application (the "App") and the services provided through the App.
