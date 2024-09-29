@@ -8,6 +8,7 @@ We may collect the following types of information:
 Personal Information: When you register or use our App, we may collect personal information such as your name, email address, phone number, and any other details you provide.
 Automatically Collected Information: We may collect information automatically, such as your device type, operating system, IP address, usage data, and location information.
 Cookies and Similar Technologies: We may use cookies and similar technologies to improve your experience and provide you with personalized services.
+
 2. How We Use Your Information
 We may use the information we collect for various purposes, including:
 
@@ -17,12 +18,14 @@ To communicate with you, including sending updates and notifications.
 To provide customer support.
 To monitor and analyze usage trends.
 To comply with legal obligations.
+
 3. How We Share Your Information
 We may share your information with third parties in the following cases:
 
 Service Providers: We may share your information with service providers who help us operate our App and provide services.
 Legal Requirements: We may disclose your information to comply with applicable laws or respond to valid legal requests.
 Business Transfers: In the event of a merger, acquisition, or sale of assets, your information may be transferred to the new entity.
+
 4. Your Data Rights
 Depending on your location, you may have the right to:
 
