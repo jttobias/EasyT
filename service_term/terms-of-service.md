@@ -48,6 +48,6 @@ We reserve the right to modify or replace these Terms at any time, at our sole d
 
 These Terms constitute the entire agreement between you and the Application Provider regarding your use of the Application and supersede all prior and contemporaneous understandings, agreements, representations, and warranties, both written and oral, regarding the Application.
 
-13. Contact Us
+13、Contact Us
 
 If you have any questions or concerns about these Terms or the Application, please contact us at nozwo@outlook.com.
