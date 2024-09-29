@@ -1,6 +1,7 @@
-                                                                 Terms-of-Service
+                                                                   Terms-of-Service
+
 Introduction
-Welcome to the Service Terms and Conditions (hereinafter referred to as "Terms") governing your use of our Application (the "Application").By accessing, downloading, installing, or using the Application, you are agreeing to be bound by these Terms. If you do not agree to these Terms, you may not access or use the Application.
+Welcome to the Service Terms and Conditions (hereinafter referred to as "Terms") governing your use of our Application (the "Application"). By accessing, downloading, installing, or using the Application, you are agreeing to be bound by these Terms. If you do not agree to these Terms, you may not access or use the Application.
 
 License Grant
 Subject to your compliance with these Terms, we grant you a limited, non-exclusive, non-transferable, non-sublicensable license to use the Application solely for your personal, non-commercial purposes. You acknowledge and agree that the Application, including all associated intellectual property rights, is the sole and exclusive property of the Application Provider and/or its licensors.
@@ -27,7 +28,7 @@ Termination
 We may terminate your access to and use of the Application immediately, without prior notice or liability, for any reason or no reason, including but not limited to breach of these Terms. Upon termination, you must immediately cease using the Application and delete any copies of the Application in your possession or control.
 
 Governing Law and Jurisdiction
-These Terms shall be governed by and construed in accordance with the laws of [Insert Applicable Jurisdiction], without giving effect to any principles of conflicts of law. Any dispute arising from or relating to these Terms shall be subject to the exclusive jurisdiction of the courts located in [Insert Applicable Jurisdiction].
+These Terms shall be governed by and construed in accordance with the laws of China Shenzhen, without giving effect to any principles of conflicts of law. Any dispute arising from or relating to these Terms shall be subject to the exclusive jurisdiction of the courts located in China Shenzhen.
 
 Changes to These Terms
 We reserve the right to modify or replace these Terms at any time, at our sole discretion. If a revision is material, we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion. By continuing to access or use the Application after any revisions become effective, you agree to be bound by the revised Terms.
@@ -36,4 +37,4 @@ Entire Agreement
 These Terms constitute the entire agreement between you and the Application Provider regarding your use of the Application and supersede all prior and contemporaneous understandings, agreements, representations, and warranties, both written and oral, regarding the Application.
 
 Contact Us
-If you have any questions or concerns about these Terms or the Application, please contact us at nozwo@outlook.com
+If you have any questions or concerns about these Terms or the Application, please contact us at nozwo@outlook.com.
